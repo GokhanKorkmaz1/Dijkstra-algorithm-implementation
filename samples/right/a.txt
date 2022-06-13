@@ -1,0 +1,15 @@
+q
+q w 4
+q e 8
+w r 8
+w e 11
+e t 7
+e y 1
+t y 6
+t r 2
+r u 7
+r i 4
+y i 2
+u i 14
+i o 10
+u o 9
